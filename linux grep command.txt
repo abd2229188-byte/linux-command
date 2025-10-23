@@ -1,0 +1,11 @@
+ar kaj holo kono boro ekta paragraph theke ekta specific word ber kora upper lower wprd matter kore na
+c:grep -i "hello" file.txt
+ekta word kotobar ase oita dekhte
+c:grep -c "hello" file.txt  ai jagay upper lower letter matter kore
+c:grep -w "heelo" file.txt  ai command ta exact matching word tai khujbe
+c:grep -n "hello" file.txt  wprd ta koto number line a ase dekhay
+c: echo "john ayon" > file.txt   aita new file make kre text save hoye jay john ayon text hishab a gonno hobe
+
+
+aibar kon file er modde word ta ase 
+c:grep -l "hello" .

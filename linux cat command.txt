@@ -1,0 +1,12 @@
+c: cat
+it actuslly do echo i mean copy the line if you write something and press enter it copy paste
+if you want to return then click control+d
+c:cat file.txt it shows what is written in this file
+c:cat -n *txt means it shows all written in a serail number
+c:cat -s aita dile serial number er space kom hoy
+c:cat -E aita dile prottek line sesh a $ ai sign ta ashe
+c:cat > ayon.txt enter diye ja likhbe file a save hoye jabe then control d diye ber hoye jaba
+ja lekha ase tar sathe kisu add korte chaile c:cat >> ayon.txt then enter what you want to add 
+
+if we want to convine 2 file and turn into a new file then
+c: hi.txt file2.txt > file3.txt

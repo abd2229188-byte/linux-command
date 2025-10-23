@@ -1,0 +1,7 @@
+c: cd likhe kono file er name ektu likhe tab click korlei purota chole ashbe but name puro perfect hote hobe upper letter and lower leter kheal rakhte hobe
+c:cd ..=previous command a chole jabe
+c: cd mus then c:cd ayon then c:cd abir tahole amra music file a ayon file a abir file a dukhbo
+alternative c:Mu tab ay tab abi tab
+tahole ek click a music file er abir file a duke jabo akhon jodi abar child directory theke parent directory te jete chai
+ tahole c: cd ~  ar jodi sudo ekta file age jete chai tahole c:cd .. duita jaite chaile c: cd ../cd..
+c:cd /=root directory te jabe

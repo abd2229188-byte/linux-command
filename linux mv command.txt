@@ -1,0 +1,7 @@
+if you want to rename a file
+c:mv sourcefile destinationfile{just add a name it will be rename automatically}
+i you want to move a file to a directory
+c:mv sourcefile diractoryname 
+if we want to move maany file in a diretory then
+c:mv *.txt destinationfile
+ek directory theke onno directory te move korate chaile obossoi oi directery ta creat kora thakte hobe

@@ -1,0 +1,13 @@
+kono user er name change korte chaile 
+c:sudo chown ayon file.txt
+if we want to chang a group name 
+c:chown :ayon file.txt
+if you want to add or creat a group  in a user
+c:sudo groupadd ayon(group name) then enter and again 
+c:sudo chown :anime file.txt
+
+if you want to change group and user ownership to a diretory
+c:sudo chown sojib(username):ayon(groupname) file.py(directoryname)
+
+ekta directory er user and file sob ownership change korte chaile
+c:sudo chown -R sojib(new owner name) ayon/(previous owner name

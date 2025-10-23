@@ -1,0 +1,10 @@
+file command file ta kemon oita aro details diye bole
+c:file ayon.txt
+c:file -b ayon.txt file er name bolbe na ai somoy
+c:file *
+joto file ase sob gulor details dibe
+akhon kono picture somporke jante chaile directory name and picture name dite hobe
+c:file ~directoryname picture name
+sob picture somporke jante chaile
+c:file ~\directoryname/*
+c:file [a-f]P that means just show me all file from word a to f

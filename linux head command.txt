@@ -1,0 +1,12 @@
+kono fiole er prootom koyta line headline dekhte chaile
+c:head -n number(1,2,3 etc) ayon.txt
+onek file ek sathe dekhte chaile
+c:head ayon.txt sojib.txt
+aibar prottek file thke 3 ta kore headline dekhte chaile
+c:head -q -n 3 ayon.txt sojib.txt
+sudu koya word er headline dekhte chaile
+c:head -c 20 ayon.txt
+
+
+
+c:head -v ayon.txt ai jagay file name tao show korbe aita print korar kaje lagte pare

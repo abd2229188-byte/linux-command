@@ -1,0 +1,10 @@
+if we want to copy a file
+c:cp file1.txt sojib.txt
+ai jagay first a cp diye source file then space destination file enter
+if i want to copy multiple file into one directory then 
+c:cp sourcefile sourcefile destination file
+same file jodi abar directory te add korte chao tahole
+c:cp -i sourcefile destinationfile
+tahole se ektaoverwrite warning dibe
+c:cp -r ayon sajib ekta directory thke sob kisu onno directory te copy kora
+if you want to see any manual for any command seRCH man command{cp,cd etc....}

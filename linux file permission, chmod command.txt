@@ -1,0 +1,38 @@
+permission 3 proker  read.write exexucute(x)
+permission group 3 proker also
+owner,group,other
+chmod er kaj holo pemission edit kora 
+amra first a deaktop a jeye 
+c:ls -l dei.... ai jagay jeita ashe tar modde fidt name diye bujay kon user e rkase ase and second name diye bujay kon group er kase ase
+
+then ai jaga te prothom d thakle oita directory ar first - thakle oita file
+akhon amr jodi file er user er modde read write er sathe execute permission dite hoy then
+c:chmod u+x file.txt 
+ar permission remove korte chaile 
+c:chmod u-x file.txt
+jokhin file er write bah read bah execute permission remove kora hoy tokhob ar oi file a read write bah execute kora jay na
+ek sathe sob gulor permission edit korte  chaile remove -,add +
+c:chmod a-r file.txt
+
+user=u
+group=g
+other=o
+read=r
+write=w
+execute=x
+
+
+akhon sob gulo file ek sathe edit korte chaile and sob gulor onno alada alda edit korte chaile
+c:chmod u+rw,g+rwx,o+r file.txt
+
+c:chmod u=r  (=) ai comamndd use korle user er jonno sudo read permision on hobe baki sob permission write execute agulo delete hobe
+
+shortcut of chmod command
+read=4
+write=2
+execute=1
+read+write=6,read=+write+execute=7
+manu of command:c:chmod ugo (file name)
+example of command
+c:chmod 763 txt.file(u=7,g=6,0=3)
+

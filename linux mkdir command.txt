@@ -1,0 +1,11 @@
+if you want to creat a directory 
+c: mkdr ayon then if you want to creat a folder inside a ayon then
+c: mkdir ay tab sakib ar jodi ek command a duita directory add korte chai tahole c: mkdir -p ayon/abir
+ar jodi duita alada alada folder creat chao tahole 
+c: mkdir ayon abir
+ar jodi boro name hoy tahole
+c: mkdir "ayon abir"
+akhon jodi ek sathe ayon1 ayon2 amon 15 ta directory add korte chai tahile
+c:mkdir ayon{1...15}
+akhon jodi ayon er bitore abir er 15 ta directory add korte chai tahole
+c: mkdir -p ayon/abir{1..15}

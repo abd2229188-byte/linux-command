@@ -1,0 +1,3 @@
+jodi kono file er nicher lekha dekhte chai tahole 
+c:tail file.txt1
+ai commain ta puro head er moto just head a healine dekhe ar aitar modde nicher tuko dekhe jake tail bole ai jagay flag gulo same hea er moto -n number,-v etc

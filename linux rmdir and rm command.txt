@@ -1,0 +1,13 @@
+if you wantr to delete a directory if its empty
+c: rmdir ayon
+if its not empty
+c:rmdir -p ayon/gajik
+if you wan to see how directiry is deleting
+c: rmdir -pv ayon/gajik
+if its not empty and you want to delete directory touch file and evrything
+c:rm -r ayon it will delete everything including directory file everything
+jokhon onek beshi file add korte chaile .. dot 2 tar beshi dao a jabe na
+jodi directory er vitore onek file ek sathe delete korte chai tahole 
+c:rm *.txt{1..5}  file a . er pore je name ta thakbe seta must dite hobe
+ar jodi directory er vitore sob file delete kore dite chai tahole
+c:rm *  directory thakbe baki sob file delete hobe

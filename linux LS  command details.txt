@@ -1,0 +1,12 @@
+in linux there have by default ginum desktop emvironment
+when we use linux in device there have a graphical user interface in linux it have (GUI)
+COMMAND: LS = vitore ki ase sob dekhay
+C: ls -l =APP ER FILE GULO LIST AKARE DEKHABE
+C:ls -al= HIDDEN FILE LIST AKARE DEKHABE
+C: ls -lr=HIDDEN FILE GULO REVRSE AKARE DEKHABE
+C:ls -ral= REVERSE A ALL HIDDEN FILE LIST AKARE DEKHABE ....SO LETTER AGE PORE HOK NO PROBLEM BUT LETER THAKTE HOBE
+C: ls -lh = FILE GULOR SIZE DEKHABE
+C: ls pictures -l=picture folder a kiki ase dekhabe abr l er sathe h add korle size dekhabe abar -lhr lekhle reverse list akare dekhabe 
+c: pg up button click korle ager command ta copy paste hoye jabe 
+c: ls -t =last kon directory (file) a sila oi list akare dekhabe ex: last konty dukso tar age kontay dekso
+c: man ls= ls command lsit and how to use it 

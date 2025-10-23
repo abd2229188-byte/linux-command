@@ -1,0 +1,4 @@
+if we want to creat a file in a folder then
+c:cd desktop/ touch ayon
+if we want see updated time for this file then
+c:touch ayon then c:ls -l
